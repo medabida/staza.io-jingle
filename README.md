@@ -1,4 +1,4 @@
-# staza.io-jingle
+# stanza.io-jingle
 A tweaked version of stanza.io to fix a problem where call answer fails when calling audio only from firefox to chrome and throws this error: 
 
 *Failed to set remote answer sdp: Called with SDP without ice-ufrag and ice-pwd.*
